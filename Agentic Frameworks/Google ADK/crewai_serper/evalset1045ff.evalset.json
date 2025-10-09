@@ -1,0 +1,51 @@
+[
+  {
+    "name": "case4f5546",
+    "data": [
+      {
+        "query": "What is the news about Saudi Arabia and Sam Altman Deals ?",
+        "expected_tool_use": [
+          {
+            "tool_name": "NewsSearch",
+            "tool_input": {
+              "search_query": "Saudi Arabia Sam Altman deals"
+            }
+          }
+        ],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Recent news about Saudi Arabia and Sam Altman revolves around AI deals and political involvement in the Middle East. Here are some noteworthy articles:\n\n1. **Elon Musk's Involvement**: Elon Musk reportedly attempted to block a significant AI deal in the Middle East, involving OpenAI headed by Sam Altman unless his own AI company, xAI, was included. This deal is tied to a data-center project that was to be backed by the Trump administration. [Read more](https://www.wsj.com/tech/elon-musk-trump-openai-stargate-abu-dhabi-e2689615?gaa_at=eafs&gaa_n=ASWzDAhBOdKDovm4lFuD-1h7nEnU2HCbN70juG1VBGxldZdhsieE-3D9jgcp&gaa_ts=68394497&gaa_sig=-sFxiTShr5-LUGPMadxDeVsKcDrDhnQhfE5Z23DsMepPradJrB52liqzd1d2SzQXu1nDCV2fiCBoMoHhwqu4wg%3D%3D).\n\n2. **Sam Altman Defending AI Deals**: Sam Altman criticized detractors of AI chip deals supported by the Trump administration, arguing that the opposition was 'naive'. These deals involve not only Saudi Arabia but also the UAE and some other Gulf nations. [Read more](https://nypost.com/2025/05/19/business/openais-sam-altman-rips-naive-critics-of-trump-backed-ai-chip-deals-with-uae-saudi-arabia/).\n\n3. **Concerns Over AI Tech Distribution**: There are concerns among some lawmakers regarding the trump-backed deals that could potentially put advanced AI technology in the wrong hands, which Sam Altman has publicly defended. [Read more](https://www.businessinsider.com/openai-sam-altman-trump-ai-deals-saudi-arabia-qatar-uae-2025-5).\n\n4. **Musk's Demands for Inclusion**: Reports indicate that Elon Musk demanded to be included in these major AI operations orchestrated in the Middle East. Whether Musk's attempts had any success remains a subject in the media. [Read more](https://www.independent.co.uk/news/world/americas/us-politics/musk-trump-middle-east-ai-deal-b2759700.html).\n\n5. **Trump's Middle East Visit**: The former U.S. President Donald Trump's visit to the Middle East included inking multi-billion-dollar deals in technology and finance, with prominent figures like Elon Musk accompanying him. [Read more](https://www.forbes.com/sites/saradorn/2025/05/13/trump-middle-east-visit-live-updates-musk-altman-and-other-billionaires-join-trump-in-saudi-arabia-inking-billions-in-deals/).\n\nThese articles highlight the intertwining of technology, politics, and international business relations involving key figures in tech leadership and political influence."
+      },
+      {
+        "query": "What is the latest news on Donald Trump ?",
+        "expected_tool_use": [
+          {
+            "tool_name": "NewsSearch",
+            "tool_input": {
+              "search_query": "Donald Trump latest news"
+            }
+          }
+        ],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Here are the latest news updates about Donald Trump:\n\n1. **Tariffs Decision**: A recent ruling by an appeals court allows Trump's tariffs to continue for now. This development is a part of ongoing legal and policy challenges regarding tariffs imposed during his administration. [Read more](https://www.washingtonpost.com/politics/2025/05/29/live-updates-court-throws-up-latest-roadblock-trumps-policy-agenda/) (The Washington Post, 6 minutes ago).\n\n2. **Court Ruling on Tariffs**: The Court of International Trade has found several of Trump's tariffs to be contrary to the law. In addition, Trump mentioned at a White House event that he is considering pardons for convictions related to 2020 events. [Read more](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-putin-immigration-doge-crypto-live-updates-rcna208940) (NBC News, 1 day ago).\n\n3. **Tariff Updates**: Trump has criticized a Wall Street meme suggesting he is not committed to continuing with tariffs. The issue remains a critical point in US trade policy discussions. [Read more](https://finance.yahoo.com/news/live/live-trump-threatens-tariffs-on-canada-mexico-and-eu-in-coming-weeks-191201753.html) (Yahoo Finance, 1 day ago).\n\n4. **Elon Musk on Washington and Dogecoin**: Although not directly about Trump, there is coverage of Elon Musk expressing frustration with Washington policies, distancing himself from Trump. Musk's actions are influencing political-tech dynamics. [Read more](https://www.nytimes.com/2025/05/28/us/politics/elon-musk-trump-doge.html) (The New York Times, 1 day ago).\n\n5. **Clemency Actions**: In a recent wave of pardons and commutations, Trump has commuted the sentence of a gang leader among other clemency actions. These actions are part of a series of clemencies announced recently. [Read more](https://www.bbc.com/news/articles/crk27003pv7o) (BBC, 7 hours ago).\n\nThese pieces highlight the ongoing influence of Trump in both domestic and international political spheres, particularly focusing on trade policies and his clemency decisions."
+      },
+      {
+        "query": "What is the latest news on finance ?",
+        "expected_tool_use": [
+          {
+            "tool_name": "NewsSearch",
+            "tool_input": {
+              "search_query": "latest news in finance"
+            }
+          }
+        ],
+        "expected_intermediate_agent_responses": [],
+        "reference": "Here are the latest updates in the world of finance:\n\n1. **Nvidia's Stock Surge**: Nvidia's stock has seen a significant rise following the release of its fiscal first-quarter earnings. Analysts are closely watching the company's performance amid various economic challenges. [Read more](https://www.marketwatch.com/livecoverage/nvidia-earnings-stock-results-guidance-china-blackwell-ai) (MarketWatch, 8 hours ago).\n\n2. **Wells Fargo's Regulatory Progress**: Wells Fargo is making progress towards lifting its asset cap after a U.S. regulator terminated a 2015 consent order. This marks a significant step for the bank in overcoming regulatory hurdles. [Read more](https://www.reuters.com/business/finance/wells-fargo-says-us-occ-terminated-2015-consent-order-2025-05-29/) (Reuters, 8 hours ago).\n\n3. **AUD/USD Currency Movement**: The Australian Dollar is gaining strength against the US Dollar, nearing the 0.6450 mark amid renewed concerns over tariffs. This reflects ongoing fluctuations in currency markets due to geopolitical factors. [Read more](https://www.fxstreet.com/news/aud-usd-gathers-strength-to-near-06450-amid-renewed-tariff-concerns-202505292315) (FXStreet, 6 hours ago).\n\n4. **Impact of Tariffs and Legal Rulings**: Stocks have been boosted by a recent judicial ruling declaring Trump's tariffs illegal, which has lifted market sentiments especially in the tech sector. [Read more](https://www.foxbusiness.com/live-news/nvidia-shares-jump-tariff-ruling-lifts-stocks-musk-departs-doge-live-updates) (Fox Business, 9 hours ago).\n\n5. **Social Security Promises**: There is ongoing debate about President Donald Trump's legislative proposals, particularly ones affecting Social Security, which are critical for many Americans' financial stability. [Read more](https://www.usatoday.com/story/money/personalfinance/retirement/2025/05/29/trump-one-big-beautiful-bill-social-security/83860803007/) (USA Today, 8 hours ago).\n\nThese news items reflect various dynamics at play in the financial markets, from corporate earnings and regulatory changes to currency movements and policy debates."
+      }
+    ],
+    "initial_session": {
+      "state": {},
+      "app_name": "crewai_serper",
+      "user_id": "user"
+    }
+  }
+]
