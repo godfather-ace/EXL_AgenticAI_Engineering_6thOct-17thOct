@@ -4,7 +4,7 @@ LoRA hyperparameters are adjustable parameters that control how Low-Rank Adaptat
 
 You'll learn the best practices for these parameters, based on insights from hundreds of research papers and experiments, and see how they impact the model. **While we recommend using Unsloth's defaults**, understanding these concepts will give you full control.\
 \
-The goal is to change hyperparameter numbers to increase accuracy while counteracting [**overfitting or underfitting**](#overfitting-poor-generalization-too-specialized). Overfitting occurs when the model memorizes the training data, harming its ability to generalize to new, unseen inputs. The objective is a model that generalizes well, not one that simply memorizes.
+The goal is to change hyperparameter numbers to increase accuracy while counteracting overfitting or underfitting. Overfitting occurs when the model memorizes the training data, harming its ability to generalize to new, unseen inputs. The objective is a model that generalizes well, not one that simply memorizes.
 
 {% columns %}
 {% column %}
