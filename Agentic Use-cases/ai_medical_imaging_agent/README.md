@@ -16,6 +16,7 @@ A Medical Imaging Diagnosis Agent build on agno powered by Gemini 2.0 Flash that
 
 1. **Setup Environment**
    # Install dependencies
+   ```bash
    pip install -r requirements.txt
    ```
 
