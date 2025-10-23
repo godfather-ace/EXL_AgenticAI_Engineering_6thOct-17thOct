@@ -32,18 +32,12 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
 
 ## Quick Start
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_home_renovation_agent
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set up your API key**
+2. **Set up your API key**
    ```bash
    export GOOGLE_API_KEY="your_gemini_api_key"
    ```
@@ -52,13 +46,13 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
    GOOGLE_API_KEY=your_gemini_api_key
    ```
 
-4. **Launch ADK Web** 
+3. **Launch ADK Web** 
    ```bash
    cd multi_agent_apps
    adk web
    ```
 
-5. **Open browser** and select "ai_home_renovation_agent"
+4. **Open browser** and select "ai_home_renovation_agent"
 
 ## Usage Examples
 
