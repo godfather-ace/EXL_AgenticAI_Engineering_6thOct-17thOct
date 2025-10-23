@@ -34,27 +34,21 @@ The AQI Analysis Agent is a powerful air quality monitoring and health recommend
 
 Follow these steps to set up and run the application:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_aqi_analysis_agent
-   ```
-
-2. **Install the dependencies**:
+1. **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your API keys**:
+2. **Set up your API keys**:
     - Get an OpenAI API key from: https://platform.openai.com/api-keys
     - Get a Firecrawl API key from: [Firecrawl website](https://www.firecrawl.dev/app/api-keys)
 
-4. **Run the Gradio app**:
+3. **Run the Gradio app**:
     ```bash
     python ai_aqi_analysis_agent.py
     ```
 
-5. **Access the Web Interface**:
+4. **Access the Web Interface**:
     - The terminal will display two URLs:
       - Local URL: `http://127.0.0.1:7860` (for local access)
       - Public URL: `https://xxx-xxx-xxx.gradio.live` (for temporary public access)
