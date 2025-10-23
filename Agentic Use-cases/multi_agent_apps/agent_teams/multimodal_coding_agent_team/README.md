@@ -33,23 +33,18 @@ Follow the steps below to set up and run the application:
 - Get a Google (Gemini) API key from: https://makersuite.google.com/app/apikey
 - Get an E2B API key from: https://e2b.dev/docs/getting-started/api-key
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_coding_agent_team
-   ```
 
-2. **Install the dependencies**
+1. **Install the dependencies**
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Run the Streamlit app**
+2. **Run the Streamlit app**
     ```bash
     streamlit run ai_coding_agent_o3.py
     ```
 
-4. **Configure API Keys**
+3. **Configure API Keys**
    - Enter your API keys in the sidebar
    - All three keys (OpenAI, Gemini, E2B) are required for full functionality
 
