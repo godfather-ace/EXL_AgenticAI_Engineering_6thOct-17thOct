@@ -44,23 +44,17 @@ You'll also need API keys for:
 
 Follow these steps to set up and run the application:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_competitor_intelligence_agent_team
-   ```
-
-2. **Install the dependencies**:
+1. **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your API keys**:
+2. **Set up your API keys**:
     - Get an OpenAI API key from: https://platform.openai.com/api-keys
     - Get a Firecrawl API key from: [Firecrawl website](https://www.firecrawl.dev/app/api-keys)
     - Get an Exa API key from: [Exa website](https://dashboard.exa.ai/api-keys)
 
-4. **Run the Streamlit app**:
+3. **Run the Streamlit app**:
     ```bash
     streamlit run ai_competitor_analyser.py
     ```
