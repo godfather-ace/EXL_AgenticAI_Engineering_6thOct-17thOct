@@ -61,20 +61,14 @@ The agency operates in async mode, enabling:
 Follow the steps below to set up and run the application:
 Before anything else, Please get your OpenAI API Key here: https://platform.openai.com/api-keys
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_services_agency
-   ```
-
-2. **Install the dependencies**:
+1. **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Run the Streamlit app**:
+2. **Run the Streamlit app**:
     ```bash
     streamlit run agency.py
     ```
 
-4. **Enter your OpenAI API Key** in the sidebar when prompted and start analyzing your startup idea!
+3. **Enter your OpenAI API Key** in the sidebar when prompted and start analyzing your startup idea!
