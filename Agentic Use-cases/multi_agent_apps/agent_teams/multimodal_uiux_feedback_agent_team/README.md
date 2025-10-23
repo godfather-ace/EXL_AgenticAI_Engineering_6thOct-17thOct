@@ -42,18 +42,12 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
 
 ## Quick Start
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Set up your API key
+### 2. Set up your API key
 ```bash
 export GOOGLE_API_KEY="your_gemini_api_key"
 ```
@@ -63,13 +57,13 @@ Or create a `.env` file:
 GOOGLE_API_KEY=your_gemini_api_key
 ```
 
-### 4. Launch ADK Web
+### 3. Launch ADK Web
 ```bash
 cd advanced_ai_agents/multi_agent_apps/agent_teams
 adk web
 ```
 
-### 5. Open browser
+### 4. Open browser
 Navigate to the ADK Web interface and select **multimodal_uiux_feedback_agent_team**
 
 ## Tools & Capabilities
