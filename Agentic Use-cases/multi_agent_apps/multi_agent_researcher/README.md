@@ -8,22 +8,16 @@ This Streamlit app empowers you to research top stories and users on HackerNews 
 
 ### How to get Started?
 
-1. Clone the GitHub repository
-
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/multi_agent_apps/multi_agent_researcher
-```
-2. Install the required dependencies:
+1. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
-3. Get your OpenAI API Key
+2. Get your OpenAI API Key
 
 - Sign up for an [OpenAI account](https://platform.openai.com/) (or the LLM provider of your choice) and obtain your API key.
 
-4. Run the Streamlit App
+3. Run the Streamlit App
 ```bash
 streamlit run research_agent.py
 ```
