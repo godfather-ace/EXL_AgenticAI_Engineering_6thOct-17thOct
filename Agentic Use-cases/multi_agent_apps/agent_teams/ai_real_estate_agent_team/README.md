@@ -60,22 +60,16 @@ Follow these steps to set up and run the application:
 
 ### **API Version (Gemini 2.5 Flash)**
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_real_estate_agent_team
-   ```
-
-2. **Install the dependencies**:
+1. **Install the dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your API keys**:
+2. **Set up your API keys**:
     - Get a Google AI API key from: https://aistudio.google.com/app/apikey
     - Get a Firecrawl API key from: [Firecrawl website](https://firecrawl.dev)
 
-4. **Run the Streamlit app**:
+3. **Run the Streamlit app**:
     ```bash
     streamlit run real_estate_agent_team.py
     ```
