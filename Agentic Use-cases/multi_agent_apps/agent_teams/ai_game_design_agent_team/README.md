@@ -37,25 +37,18 @@ The AI Game Design Agent Team is a collaborative game design system powered by [
 
 Follow these steps to set up and run the application:
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_game_design_agent_team
-   ```
-
-2. **Install Dependencies**:
+1. **Install Dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set Up OpenAI API Key**:
+2. **Set Up OpenAI API Key**:
 
    - Obtain an OpenAI API key from [OpenAI's platform](https://platform.openai.com)
    - You'll input this key in the app's sidebar when running
 
-4. **Run the Streamlit App**:
+3. **Run the Streamlit App**:
    ```bash
    streamlit run game_design_agent_team.py
    ```
