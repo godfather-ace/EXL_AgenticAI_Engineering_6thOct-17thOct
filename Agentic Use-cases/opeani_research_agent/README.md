@@ -18,7 +18,6 @@ A multi-agent research application built with OpenAI's Agents SDK and Streamlit.
 1. Install the required dependencies:
 
 ```bash
-cd awesome-llm-apps/ai_agent_tutorials/openai_researcher_agent
 pip install -r requirements.txt
 ```
 
