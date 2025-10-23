@@ -33,20 +33,13 @@ Additional goodies:
 
 ## 🚀 Quick Start
 
-1. **Clone** the repository
-
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/multi_agent_apps/product_launch_intelligence_agent
-```
-
-2. **Install** dependencies
+1. **Install** dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Provide API keys** (choose either option)
+2. **Provide API keys** (choose either option)
 
    • **Environment variables** – create a `.env` file:
    ```ini
@@ -55,7 +48,7 @@ pip install -r requirements.txt
    ```
    • **In-app sidebar** – paste the keys into the secure text inputs
 
-4. **Run the app**
+3. **Run the app**
 
 ```bash
 streamlit run product_launch_intelligence_agent.py
