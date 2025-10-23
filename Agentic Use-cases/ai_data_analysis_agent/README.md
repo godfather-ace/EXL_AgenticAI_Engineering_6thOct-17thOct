@@ -29,6 +29,7 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
 
 1. **Setup Environment**
    # Install dependencies
+   ```bash
    pip install -r requirements.txt
    ```
 
