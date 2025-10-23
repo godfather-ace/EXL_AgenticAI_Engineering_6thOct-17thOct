@@ -33,10 +33,6 @@ A Streamlit application that brings together a team of specialized AI teaching a
 
 1. Clone the repository
   ```bash
-   # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_personal_learning_agent
-
    # Install dependencies
    pip install -r requirements.txt
    ```
