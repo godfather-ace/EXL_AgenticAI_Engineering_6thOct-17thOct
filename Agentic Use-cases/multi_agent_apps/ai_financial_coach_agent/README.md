@@ -45,18 +45,12 @@ Follow the steps below to set up and run the application:
      GOOGLE_API_KEY=your_api_key_here
      ```
 
-2. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_financial_coach_agent/
-   ```
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the Streamlit App**:
+3. **Run the Streamlit App**:
    ```bash
    streamlit run ai_financial_coach_agent.py
    ```
