@@ -9,19 +9,13 @@ The AI Reasoning Agent leverages advanced AI models to provide insightful reason
 - **Customizable Agent**: Easily configurable to suit different reasoning scenarios
 
 ### How to Get Started
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-    cd ai_agent_tutorials/ai_reasoning_agent
-    ```
-
-2. **Install the required packages**:
+1. **Install the required packages**:
     #### For Local AI Reasoning Agent
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Run the application**:
+2. **Run the application**:
     ```bash
     python local_ai_reasoning_agent.py
     ```
