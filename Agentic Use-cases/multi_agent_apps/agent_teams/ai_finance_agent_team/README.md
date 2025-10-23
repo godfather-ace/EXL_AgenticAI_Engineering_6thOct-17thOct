@@ -12,19 +12,13 @@ This script demonstrates how to build a team of AI agents that work together as 
 
 ### How to get Started?
 
-1. Clone the GitHub repository
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_finance_agent_team
-```
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Get your OpenAI API Key
+2. Get your OpenAI API Key
 
 - Sign up for an [OpenAI account](https://platform.openai.com/) (or the LLM provider of your choice) and obtain your API key.
 - Set your OpenAI API key as an environment variable:
@@ -32,9 +26,9 @@ pip install -r requirements.txt
 export OPENAI_API_KEY='your-api-key-here'
 ```
 
-4. Run the team of AI Agents
+3. Run the team of AI Agents
 ```bash
 python3 finance_agent_team.py
 ```
 
-5. Open your web browser and navigate to the URL provided in the console output to interact with the team of AI agents through the playground interface.
+4. Open your web browser and navigate to the URL provided in the console output to interact with the team of AI agents through the playground interface.
